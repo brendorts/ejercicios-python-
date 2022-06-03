@@ -16,15 +16,31 @@ Jupyter Notebooks verás que es muy dinámico.:grin:
 
 Cada ejercicio está explicado y documentado para que puedas ir entendiendo el código:computer:. Te invito a que los revises conforme el orden propuesto.
 
-También te comparto algunas librerías que son de utilidad en el área de geociencias. Te lo comparto como imagen en lo que veo como puedo agregarlo como
-tabla para que puedas acceder a los enlaces:zany_face:.
+También te comparto algunas librerías que son de utilidad en el área de geociencias. 
 
-![Captura desde 2022-05-31 21-42-34](https://user-images.githubusercontent.com/50591677/171317231-6e01ee1a-c3bb-488a-9af2-d95ec32152b0.png)
+#### Geoestadística
 
+- [PyKriging: Kriging n-dinensional](https://github.com/capaulson/pyKriging)
+- [HPGL: Librería  para geoestadística de alto rendimiento](https://github.com/hpgl/hpgl)
+- [PyGSLIB: Estimaciones de recurso mineral](https://opengeostat.github.io/pygslib/index.html)
+- [GeostatsPy: Geostatistical Software Library reimplentada en Python](https://github.com/GeostatsGuy/GeostatsPy)
+- [GeoStat-Framework: Simulaciones geoestadísticas](https://github.com/GeoStat-Framework)
 
+#### Análisis espacial
 
+- [geonotebook: Jupyter notebooks de la NASA para visualización y análisis geoespacial ](https://github.com/OpenGeoscience/geonotebook)
+- [Verde: Procesado de datos geoespaciales](https://github.com/fatiando/verde)
 
-![Captura desde 2022-05-31 21-43-51](https://user-images.githubusercontent.com/50591677/171317238-5db81678-5949-449d-965b-2e38990d4afa.png)
+#### Geoquímica
+
+- [Reaktoro: Modelación de sistemas químicamente reactivos](https://reaktoro.org/)
+- [GeoPyTool: Aplicación para graficado geoquímico](https://github.com/GeoPyTool/GeoPyTool)
+- [Transformación geoquímica y visualización](https://github.com/morganjwilliams/pyrolite)
+
+#### Geología Estructural:
+
+- [mplStereonet: Redes estereográficas en Python basadas en Matplotlib](https://github.com/joferkington/mplstereonet)
+- [apsg: Análisis de geología estructural avanzada y visualización basada en Matplotlib](https://github.com/ondrolexa/apsg)
 
 IMPORTANTE:exclamation:: En cada ejercicio se nombra al autor original del código, yo me tomé la tarea de ir documentándolo y agregando algunas cosas para que sea
 entendible para ti. 
